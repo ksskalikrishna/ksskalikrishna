@@ -13,8 +13,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ksskalikrishna" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" alt="LinkedIn"/>
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=000000" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=000000&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMEg0LjEyNVYzLjk5N2gxNi4zMjJ2MTYuMDAzek02LjM1NiA2LjE3OGE0LjQ0IDEuNDQgMCAxIDAgMC0yLjg4IDQuNDQgMS40NCAwIDAgMCAwIDIuODh6bS0xLjQ0IDIuMTZoMi44OHY4LjMySDQuOTE2VjguMzM4ek0xMy4xNjcgOC4zMzhIOC4yOHY4LjMySDExLjF2LTQuMzg4YzAtMS4xNTUgLjIxOS0yLjI3NCAxLjY1My0yLjI3NCAxLjQxMyAwIDEuNDMyIDEuMzIzIDEuNDMyIDIuMzU2djQuMzA2aDIuODg1di00Ljc3MmMwLTIuMzQ0LS41MDctNC4xNDgtMy4yOTgtNC4xNDgtMS4zNCAwLTIuMjQ2Ljc0LTIuNjEzIDEuNDQ1aC0uMDM5VjguMzM4eiIvPjwvc3ZnPg==" alt="LinkedIn"/>
 </a>
 
 
