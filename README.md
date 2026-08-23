@@ -32,45 +32,45 @@
 
 </div>
 
-01 // ABOUT ME
+---
 
-I am an aspiring Design Verification Engineer currently working as a Design Verification Trainee at VLSIguru, Bengaluru.
+## `01` // ABOUT ME
 
-I completed my B.Tech in Electronics and Communication Engineering (ECE) in 2026 from Vasireddy Venkatadri Institute of Technology, Guntur, Andhra Pradesh. My current focus is building a strong foundation in RTL verification, Verilog, SystemVerilog, digital design, and testbench development through focused training and hands-on practice.
+I am an **aspiring Design Verification Engineer** currently working as a **Design Verification Trainee at VLSIguru, Bengaluru**.
+
+I completed my **B.Tech in Electronics and Communication Engineering (ECE)** in **2026** from **Vasireddy Venkatadri Institute of Technology, Guntur, Andhra Pradesh**. My current focus is building a strong foundation in **RTL verification, Verilog, SystemVerilog, digital design, and testbench development** through focused training and hands-on practice.
 
 I am interested in the engineering process behind verifying digital hardware, debugging RTL behavior, developing verification environments, and building reliable and reusable verification solutions.
 
-EXPANDING INTERESTS
+### `EXPANDING INTERESTS`
 
-Beyond hardware verification, I am actively exploring Artificial Intelligence and its intersection with hardware systems:
+Beyond hardware verification, I am actively exploring **Artificial Intelligence and its intersection with hardware systems**:
 
-AI & Agentic AI: Understanding autonomous AI agents, decision-making systems, and their potential applications in verification workflows
+- **AI & Agentic AI:** Understanding autonomous AI agents, decision-making systems, and their potential applications in verification workflows
+- **RAG (Retrieval-Augmented Generation):** Learning how AI systems retrieve and synthesize information, and exploring its applications in automated documentation and verification assistance
+- **AI-Hardware Co-design:** Interested in how AI accelerators are verified and the role of DV in next-generation AI chips
 
-RAG (Retrieval-Augmented Generation): Learning how AI systems retrieve and synthesize information, and exploring its applications in automated documentation and verification assistance
+### `CURRENT STATUS`
 
-AI-Hardware Co-design: Interested in how AI accelerators are verified and the role of DV in next-generation AI chips
+```text
+ROLE        â†’ Design Verification Trainee
+EXPERIENCE  â†’ Fresher / Training
+DOMAIN      â†’ VLSI / Design Verification
+LOCATION    â†’ Bengaluru, Karnataka, India
+GRADUATION  â†’ B.Tech ECE | 2026
+```
 
-CURRENT STATUS
+### `OPEN TO`
 
-ROLE        → Design Verification Trainee
-EXPERIENCE  → Fresher / Training
-DOMAIN      → VLSI / Design Verification
-LOCATION    → Bengaluru, Karnataka, India
-GRADUATION  → B.Tech ECE | 2026
+- Design Verification Engineer Internships
+- Design Verification Engineer Roles
+- Design Verification Trainee Positions
+- VLSI Opportunities
+- Semiconductor Industry Roles
 
-OPEN TO
+---
 
-Design Verification Engineer Internships
-
-Design Verification Engineer Roles
-
-Design Verification Trainee Positions
-
-VLSI Opportunities
-
-Semiconductor Industry Roles
-
-02 // TECHNICAL FOCUS
+## `02` // TECHNICAL FOCUS
 
 <div align="center">
 
@@ -87,11 +87,13 @@ Semiconductor Industry Roles
 
 </div>
 
-03 // TECH STACK
+---
+
+## `03` // TECH STACK
 
 <div align="center">
 
-PROGRAMMING
+### `PROGRAMMING`
 
 <img src="https://skillicons.dev/icons?i=c,python&theme=dark" alt="C and Python"/>
 
@@ -100,12 +102,12 @@ PROGRAMMING
 <img src="https://img.shields.io/badge/C-INTERMEDIATE-000000?style=flat-square&logo=c&logoColor=00B82E&labelColor=000000" alt="C"/>
 <img src="https://img.shields.io/badge/PYTHON-INTERMEDIATE-000000?style=flat-square&logo=python&logoColor=00FF41&labelColor=000000" alt="Python"/>
 
-HARDWARE DESCRIPTION LANGUAGES
+### `HARDWARE DESCRIPTION LANGUAGES`
 
 <img src="https://img.shields.io/badge/VERILOG-RTL-000000?style=for-the-badge&labelColor=00B82E" alt="Verilog"/>
 <img src="https://img.shields.io/badge/SYSTEMVERILOG-LEARNING-000000?style=for-the-badge&labelColor=00FF41" alt="SystemVerilog Learning"/>
 
-TOOLS & ENVIRONMENT
+### `TOOLS & ENVIRONMENT`
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Linux Git GitHub VS Code"/>
 
@@ -117,89 +119,44 @@ TOOLS & ENVIRONMENT
 
 </div>
 
-04 // SKILLS PROFICIENCY
+---
 
-Skill
+## `04` // SKILLS PROFICIENCY
 
-Proficiency Level
+| Skill | Proficiency Level | Details |
+| :--- | :---: | :--- |
+| **C** | Intermediate | Programming fundamentals and problem solving |
+| **Python** | Intermediate | Programming fundamentals and scripting |
+| **Verilog** | Intermediate | RTL design, simulation and digital design fundamentals |
+| **SystemVerilog** | Developing | Currently learning SystemVerilog for Design Verification |
+| **Design Verification** | Developing | Verification fundamentals and testbench concepts |
+| **Assembly Language** | Basic | Fundamental assembly programming concepts |
+| **Linux** | Basic | Command-line and development environment fundamentals |
+| **Git & GitHub** | Developing | Version control and repository management |
 
-Details
+---
 
-C
+## `05` // EXPERIENCE
 
-Intermediate
+### `DESIGN VERIFICATION TRAINEE`
 
-Programming fundamentals and problem solving
+**VLSIguru Â· Bengaluru, Karnataka**
 
-Python
+`2026 â€” Present`
 
-Intermediate
+Currently undergoing focused training in **Design Verification**, with emphasis on hardware verification concepts, RTL behavior, and SystemVerilog.
 
-Programming fundamentals and scripting
+### `TRAINING SCOPE`
 
-Verilog
+- Learning **SystemVerilog** for verification
+- Working with **Verilog** and RTL concepts
+- Developing verification-oriented testbenches
+- Understanding Design Verification fundamentals
+- Strengthening digital design concepts
+- Practicing hardware debugging and problem solving
+- Building a foundation for professional DV environments
 
-Intermediate
-
-RTL design, simulation and digital design fundamentals
-
-SystemVerilog
-
-Developing
-
-Currently learning SystemVerilog for Design Verification
-
-Design Verification
-
-Developing
-
-Verification fundamentals and testbench concepts
-
-Assembly Language
-
-Basic
-
-Fundamental assembly programming concepts
-
-Linux
-
-Basic
-
-Command-line and development environment fundamentals
-
-Git & GitHub
-
-Developing
-
-Version control and repository management
-
-05 // EXPERIENCE
-
-DESIGN VERIFICATION TRAINEE
-
-VLSIguru · Bengaluru, Karnataka
-
-2026 — Present
-
-Currently undergoing focused training in Design Verification, with emphasis on hardware verification concepts, RTL behavior, and SystemVerilog.
-
-TRAINING SCOPE
-
-Learning SystemVerilog for verification
-
-Working with Verilog and RTL concepts
-
-Developing verification-oriented testbenches
-
-Understanding Design Verification fundamentals
-
-Strengthening digital design concepts
-
-Practicing hardware debugging and problem solving
-
-Building a foundation for professional DV environments
-
-CORE SKILLS
+### `CORE SKILLS`
 
 <img src="https://img.shields.io/badge/VERILOG-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Verilog"/>
 <img src="https://img.shields.io/badge/SYSTEMVERILOG-000000?style=flat-square&labelColor=000000&color=00FF41" alt="SystemVerilog"/>
@@ -207,79 +164,55 @@ CORE SKILLS
 <img src="https://img.shields.io/badge/RTL%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00FF41" alt="RTL Verification"/>
 <img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Testbench Development"/>
 
-06 // DESIGN VERIFICATION PROJECTS
+---
 
-⚡ ASYNCHRONOUS FIFO — VERIFICATION
+## `06` // DESIGN VERIFICATION PROJECTS
 
-A hands-on Asynchronous FIFO verification project focused on verifying FIFO behavior across independent write and read clock domains.
+### âš¡ ASYNCHRONOUS FIFO â€” VERIFICATION
 
-VERIFICATION FEATURES
+A hands-on **Asynchronous FIFO verification project** focused on verifying FIFO behavior across **independent write and read clock domains**.
 
-Independent write and read clocks
+### `VERIFICATION FEATURES`
 
-Gray-coded read and write pointers
+- Independent write and read clocks
+- Gray-coded read and write pointers
+- Two-flop clock-domain synchronization
+- Full and empty flag verification
+- Registered status flag behavior
+- Overflow and underflow error checking
+- Write and read pointer tracking
+- Concurrent read/write operations
+- Boundary-condition testing
+- Simulation-based debugging
 
-Two-flop clock-domain synchronization
+### `TEST SCENARIOS`
 
-Full and empty flag verification
+- **Basic Write â†’ Read**
+- **Read Faster Than Write**
+- **Write Faster Than Read**
+- **Concurrent Read / Write**
+- **FIFO Full Condition**
+- **FIFO Empty Condition**
+- **Overflow Attempt**
+- **Underflow Attempt**
+- **Boundary and Pointer Transition Testing**
 
-Registered status flag behavior
-
-Overflow and underflow error checking
-
-Write and read pointer tracking
-
-Concurrent read/write operations
-
-Boundary-condition testing
-
-Simulation-based debugging
-
-TEST SCENARIOS
-
-Basic Write → Read
-
-Read Faster Than Write
-
-Write Faster Than Read
-
-Concurrent Read / Write
-
-FIFO Full Condition
-
-FIFO Empty Condition
-
-Overflow Attempt
-
-Underflow Attempt
-
-Boundary and Pointer Transition Testing
-
-TESTBENCH APPROACH
+### `TESTBENCH APPROACH`
 
 The testbench is designed to generate different write/read patterns and compare the observed FIFO behavior against expected results.
 
-Clock generation for independent domains
+- Clock generation for independent domains
+- Reset sequencing
+- Directed stimulus
+- Randomized stimulus
+- Expected pointer tracking
+- Data integrity checking
+- FIFO status monitoring
+- Error-condition verification
+- `$display`-based debugging
+- Timing and delay analysis
 
-Reset sequencing
-
-Directed stimulus
-
-Randomized stimulus
-
-Expected pointer tracking
-
-Data integrity checking
-
-FIFO status monitoring
-
-Error-condition verification
-
-$display-based debugging
-
-Timing and delay analysis
-
-KEY VERIFICATION CONCEPTS
+### `KEY VERIFICATION CONCEPTS`
 
 <img src="https://img.shields.io/badge/ASYNCHRONOUS-FIFO-000000?style=flat-square&labelColor=001F0A&color=00B82E" alt="Asynchronous FIFO"/>
 <img src="https://img.shields.io/badge/CLOCK-DOMAIN%20CROSSING-000000?style=flat-square&labelColor=001F0A&color=00FF41" alt="Clock Domain Crossing"/>
@@ -288,113 +221,93 @@ KEY VERIFICATION CONCEPTS
 <img src="https://img.shields.io/badge/RANDOMIZED-TESTING-000000?style=flat-square&labelColor=001F0A&color=00B82E" alt="Randomized Testing"/>
 <img src="https://img.shields.io/badge/SIMULATION-DEBUGGING-000000?style=flat-square&labelColor=001F0A&color=00FF41" alt="Simulation Debugging"/>
 
-⚙️ RTL MODULE VERIFICATION
+---
 
-Hands-on verification and simulation of fundamental Verilog RTL modules.
+### âš™ï¸ RTL MODULE VERIFICATION
 
-MODULES
+Hands-on verification and simulation of fundamental **Verilog RTL modules**.
 
-2:1 Multiplexer
+### `MODULES`
 
-2-to-4 Decoder
+- 2:1 Multiplexer
+- 2-to-4 Decoder
+- D Flip-Flop
+- Up Counter
+- Up/Down Counter
+- Mod-N Counter
+- Other combinational and sequential RTL modules
 
-D Flip-Flop
+### `VERIFICATION FOCUS`
 
-Up Counter
+- Functional correctness
+- Reset behavior
+- Input combinations
+- Counter boundary conditions
+- Sequential behavior
+- Expected-value checking
+- Simulation timing
+- RTL debugging
+- Testbench development
 
-Up/Down Counter
+---
 
-Mod-N Counter
-
-Other combinational and sequential RTL modules
-
-VERIFICATION FOCUS
-
-Functional correctness
-
-Reset behavior
-
-Input combinations
-
-Counter boundary conditions
-
-Sequential behavior
-
-Expected-value checking
-
-Simulation timing
-
-RTL debugging
-
-Testbench development
-
-🧪 VERIFICATION TESTBENCH PRACTICE
+### ðŸ§ª VERIFICATION TESTBENCH PRACTICE
 
 Developing and debugging Verilog/SystemVerilog testbenches to understand RTL behavior and simulator execution.
 
-PRACTICE AREAS
+### `PRACTICE AREAS`
 
-DUT instantiation
+- DUT instantiation
+- Clock generation
+- Reset generation
+- Stimulus generation
+- Directed test cases
+- Random stimulus
+- Expected-value checking
+- Concurrent operations
+- Race-condition awareness
+- Timing and delay analysis
+- `$display` debugging
+- Simulation result analysis
 
-Clock generation
+### `VERIFICATION WORKFLOW`
 
-Reset generation
-
-Stimulus generation
-
-Directed test cases
-
-Random stimulus
-
-Expected-value checking
-
-Concurrent operations
-
-Race-condition awareness
-
-Timing and delay analysis
-
-$display debugging
-
-Simulation result analysis
-
-VERIFICATION WORKFLOW
-
+```text
 RTL / DUT
-    ↓
+    â†“
 Testbench
-    ↓
+    â†“
 Stimulus Generation
-    ↓
+    â†“
 DUT Execution
-    ↓
+    â†“
 Output Monitoring
-    ↓
+    â†“
 Expected vs Actual
-    ↓
+    â†“
 Debugging
-    ↓
+    â†“
 Pass / Fail
+```
 
-07 // EXTRACURRICULAR & LEADERSHIP
+---
 
-IETE STUDENT FORUM
+## `07` // EXTRACURRICULAR & LEADERSHIP
 
-Documentation Team Member
+### `IETE STUDENT FORUM`
 
-2024 — 2025
+**Documentation Team Member**
+
+`2024 â€” 2025`
 
 Contributed to technical documentation and content creation for IETE student forum activities during B.Tech.
 
-CONTRIBUTIONS
+### `CONTRIBUTIONS`
 
-Prepared and organized technical documentation
-
-Supported technical events and student activities
-
-Collaborated with team members on documentation
-
-Developed technical writing and communication skills
+- Prepared and organized technical documentation
+- Supported technical events and student activities
+- Collaborated with team members on documentation
+- Developed technical writing and communication skills
 
 <div align="left">
 
@@ -404,7 +317,9 @@ Developed technical writing and communication skills
 
 </div>
 
-08 // EDUCATION
+---
+
+## `08` // EDUCATION
 
 <div align="center">
 
@@ -412,13 +327,15 @@ Developed technical writing and communication skills
 
 <br/><br/>
 
-Electronics and Communication Engineering
+### Electronics and Communication Engineering
 
-Graduation: 2026
+**Graduation:** `2026`
 
 </div>
 
-09 // TRAINING
+---
+
+## `09` // TRAINING
 
 <div align="center">
 
@@ -426,9 +343,9 @@ Graduation: 2026
 
 <br/><br/>
 
-VLSIguru · Bengaluru
+**VLSIguru Â· Bengaluru**
 
-Design Verification Trainee · Current
+`Design Verification Trainee Â· Current`
 
 <br/><br/>
 
@@ -440,29 +357,23 @@ Design Verification Trainee · Current
 
 </div>
 
-10 // ACHIEVEMENTS & RECOGNITION
+---
+
+## `10` // ACHIEVEMENTS & RECOGNITION
 
 <div align="center">
 
-Recognition
-
-Details
-
-IETE Student Forum
-
-Documentation Team Member · 2024–2025
-
-Design Verification Training
-
-Currently undergoing focused DV training at VLSIguru
-
-B.Tech ECE
-
-2026 graduate
+| Recognition | Details |
+| :--- | :--- |
+| **IETE Student Forum** | Documentation Team Member Â· 2024â€“2025 |
+| **Design Verification Training** | Currently undergoing focused DV training at VLSIguru |
+| **B.Tech ECE** | 2026 graduate |
 
 </div>
 
-11 // GITHUB ANALYTICS
+---
+
+## `11` // GITHUB ANALYTICS
 
 <div align="center">
 
@@ -480,7 +391,9 @@ B.Tech ECE
 
 </div>
 
-12 // GITHUB TROPHIES
+---
+
+## `12` // GITHUB TROPHIES
 
 <div align="center">
 
@@ -488,7 +401,9 @@ B.Tech ECE
 
 </div>
 
-13 // CONTRIBUTION ACTIVITY
+---
+
+## `13` // CONTRIBUTION ACTIVITY
 
 <div align="center">
 
@@ -496,7 +411,9 @@ B.Tech ECE
 
 </div>
 
-14 // CONTRIBUTION SNAKE
+---
+
+## `14` // CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -504,8 +421,11 @@ B.Tech ECE
 
 </div>
 
-15 // CURRENT FOCUS
+---
 
+## `15` // CURRENT FOCUS
+
+```yaml
 current_role: Design Verification Trainee
 organization: VLSIguru
 location: Bengaluru, India
@@ -545,12 +465,15 @@ open_to:
   - DV Trainee Positions
   - VLSI Opportunities
   - Semiconductor Industry Roles
+```
 
-16 // CONNECT
+---
+
+## `16` // CONNECT
 
 <div align="center">
 
-LET'S CONNECT
+### `LET'S CONNECT`
 
 <a href="mailto:ksrisrikalikrishna@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
@@ -566,29 +489,21 @@ LET'S CONNECT
 
 <br/><br/>
 
-Platform
-
-Link
-
-Email
-
-ksrisrikalikrishna@gmail.com
-
-LinkedIn
-
-linkedin.com/in/ksskalikrishna
-
-GitHub
-
-github.com/Kondaveeti-SriSriKaliKrishna
+| Platform | Link |
+| :--- | :--- |
+| **Email** | [ksrisrikalikrishna@gmail.com](mailto:ksrisrikalikrishna@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/ksskalikrishna](https://linkedin.com/in/ksskalikrishna) |
+| **GitHub** | [github.com/Kondaveeti-SriSriKaliKrishna](https://github.com/Kondaveeti-SriSriKaliKrishna) |
 
 </div>
 
+---
+
 <div align="center">
 
-VERIFY • DEBUG • LEARN • BUILD
+### `VERIFY â€¢ DEBUG â€¢ LEARN â€¢ BUILD`
 
-"Verification is not just about finding bugs — it is about building confidence in the design."
+> **"Verification is not just about finding bugs â€” it is about building confidence in the design."**
 
 <br/>
 
@@ -596,6 +511,6 @@ VERIFY • DEBUG • LEARN • BUILD
 
 <br/>
 
-<img src="https://img.shields.io/badge/©%202026-KONDAVEETI%20SRI%20SRI%20KALI%20KRISHNA-000000?style=for-the-badge&labelColor=00B82E" alt="Copyright 2026"/>
+<img src="https://img.shields.io/badge/Â©%202026-KONDAVEETI%20SRI%20SRI%20KALI%20KRISHNA-000000?style=for-the-badge&labelColor=00B82E" alt="Copyright 2026"/>
 
 </div>
