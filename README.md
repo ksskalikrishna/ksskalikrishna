@@ -1,4 +1,3 @@
-Yes — keep **exactly the same structure** from your uploaded README, but improve the visual system so it works in both GitHub Light and Dark themes. I’d also change the banner name to **“Kondaveeti Sri Sri Kali Krishna”** instead of all caps. Your current structure is already strong. 
 
 ````markdown
 <div align="center">
