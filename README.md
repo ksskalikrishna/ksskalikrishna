@@ -13,7 +13,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ksskalikrishna" target="_blank">
-<img src="https://img.shields.io/static/v1?label=LINKEDIN&message=CONNECT&labelColor=000000&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 
 
