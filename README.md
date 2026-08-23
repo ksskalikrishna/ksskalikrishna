@@ -26,7 +26,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kondaveeti-SriSriKaliKrishna&style=for-the-badge&color=00B82E&label=PROFILE+VIEWS&labelColor=000000" alt="Profile Views"/>
+<img src="https://hits.sh/github.com/Kondaveeti-SriSriKaliKrishna.svg?style=flat-square&color=00B82E&labelColor=000000&label=Profile+Views" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00B82E&label=FOLLOWERS&logo=github&logoColor=00B82E&labelColor=000000" alt="Followers"/>
 <img src="https://img.shields.io/github/stars/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00B82E&label=STARS&logo=star&logoColor=00B82E&labelColor=000000" alt="Stars"/>
 
