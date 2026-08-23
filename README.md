@@ -1,3 +1,6 @@
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0A0F0A,70:003B16,100:00FF41&height=220&section=header&text=KONDAVEETI%20SRI%20SRI%20KALI%20KRISHNA&fontFamily=Times%20New%20Roman&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner"/>
@@ -28,8 +31,6 @@
 <img src="https://img.shields.io/github/stars/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00B82E&label=STARS&logo=star&logoColor=00B82E&labelColor=000000" alt="Stars"/>
 
 </div>
-
----
 
 ---
 
