@@ -1,32 +1,47 @@
+<!--
+  GitHub Profile README for Kondaveeti Sri Sri Kali Krishna
+  Design Verification Engineer | VLSI Enthusiast
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:7C3AED&height=200&section=header&text=KONDAVEETI%20SRI%20SRI%20KALI%20KRISHNA&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner"/>
+  <!-- Grand Black Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=sparkle&color1=000000&color2=1a1a1a&color3=2d2d2d&height=280&section1=KONDAVEETI+SRI+SRI+KALI+KRISHNA&section2=Design+Verification+Engineer+%7C+VLSI+Enthusiast&bg=000000&animation=glow&border=8B5CF6" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=750&height=50&lines=Design+Verification+Trainee;Aspiring+Design+Verification+Engineer;VLSI+%7C+Verilog+%7C+SystemVerilog;B.Tech+ECE+%7C+2026" alt="Typing SVG"/>
+  <!-- Premium Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=8B5CF6&size=28&center=true&vCenter=true&width=700&height=60&lines=Design+Verification+Engineer;VLSI+%26+ASIC+Enthusiast;SystemVerilog+Developer;B.Tech+ECE+2026;VLSIguru+Trainee" alt="Typing SVG" />
 
-<br/><br/>
+  <br/><br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-ECE%20%7C%202026-6366F1?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Tech ECE 2026"/>
-<img src="https://img.shields.io/badge/Design%20Verification-Trainee-7C3AED?style=for-the-badge" alt="Design Verification Trainee"/>
-<img src="https://img.shields.io/badge/📍-Bengaluru%2C%20India-3B82F6?style=for-the-badge" alt="Bengaluru India"/>
+  <!-- Premium Academic & Location Badges -->
+  <img src="https://img.shields.io/badge/🎓-B.Tech+ECE+2026-000000?style=for-the-badge&logo=graduation-cap&logoColor=8B5CF6&color=8B5CF6" alt="Education" />
+  <img src="https://img.shields.io/badge/📍-Bengaluru%2C+Karnataka%2C+India-000000?style=for-the-badge&logo=map-marker&logoColor=7C3AED&color=7C3AED" alt="Location" />
+  <img src="https://img.shields.io/badge/💼-VLSIguru+Trainee-000000?style=for-the-badge&logo=linkedin&logoColor=6366F1&color=6366F1" alt="Current Role" />
 
-<br/><br/>
+  <br/><br/>
 
-<a href="https://www.linkedin.com/in/ksskalikrishna" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:ksrisrikalikrishna@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/Kondaveeti-SriSriKaliKrishna" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+  <!-- Premium Social Links -->
+  <a href="https://www.linkedin.com/in/ksskalikrishna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ksrisrikalikrishna@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Email" />
+  </a>
+  <a href="https://github.com/Kondaveeti-SriSriKaliKrishna" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=181717" alt="GitHub" />
+  </a>
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kondaveeti-SriSriKaliKrishna&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=8B5CF6&logo=github&label=FOLLOWERS" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=7C3AED&logo=github&label=STARS" alt="Stars"/>
+  <!-- Profile Stats with Black Theme -->
+  <img src="https://komarev.com/profile/Kondaveeti-SriSriKaliKrishna?theme=dark" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=000000&logo=github&logoColor=8B5CF6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=000000&logo=github&logoColor=7C3AED" alt="Stars" />
+
+  <br/><br/><br/>
+
+  <!-- Decorative Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color1=8B5CF6&color2=7C3AED&color3=6366F1&height=10&bg=000000&animation=glow" alt="Divider" />
 
 </div>
 
