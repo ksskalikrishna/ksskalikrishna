@@ -1,3 +1,8 @@
+<!--
+  GitHub Profile README for Kondaveeti Sri Sri Kali Krishna
+  Design Verification Engineer | VLSI Enthusiast
+-->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0A0F0A,70:003B16,100:00FF41&height=220&section=header&text=KONDAVEETI%20SRI%20SRI%20KALI%20KRISHNA&fontFamily=Times%20New%20Roman&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Hacker Green Header"/>
@@ -6,29 +11,27 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.TECH-ECE%20%7C%202026-00FF41?style=for-the-badge&labelColor=050505&logo=graduation-cap&logoColor=FFFFFF" alt="B.Tech ECE 2026"/>
-<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-TRAINEE-00FF41?style=for-the-badge&labelColor=050505" alt="Design Verification Trainee"/>
-<img src="https://img.shields.io/badge/LOCATION-BENGALURU%2C%20INDIA-F5F5F5?style=for-the-badge&labelColor=050505" alt="Bengaluru India"/>
+<img src="https://img.shields.io/badge/B.Tech-ECE%20%7C%202026-00FF41?style=for-the-badge&logo=graduation-cap&logoColor=00FF41" alt="B.Tech ECE 2026"/>
+<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-TRAINEE-00FF41?style=for-the-badge" alt="Design Verification Trainee"/>
+<img src="https://img.shields.io/badge/📍-BENGALURU%2C%20INDIA-00FF41?style=for-the-badge" alt="Bengaluru India"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ksskalikrishna" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&labelColor=050505&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:ksrisrikalikrishna@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-00FF41?style=for-the-badge&labelColor=050505&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <a href="https://github.com/Kondaveeti-SriSriKaliKrishna" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-F5F5F5?style=for-the-badge&labelColor=050505&logo=github&logoColor=00FF41" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=00FFFF" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kondaveeti-SriSriKaliKrishna&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=050505" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00FF41&label=FOLLOWERS&logo=github&logoColor=FFFFFF&labelColor=050505" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00FF41&label=STARS&logo=github&logoColor=FFFFFF&labelColor=050505" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=Kondaveeti-SriSriKaliKrishna&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00FF41&label=FOLLOWERS&logo=github&logoColor=00FF41" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00FF41&label=STARS&logo=github&logoColor=00FF41" alt="Stars"/>
 
 </div>
 
@@ -67,14 +70,14 @@ GRADUATION  → B.Tech ECE | 2026
 
 <img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-00FF41?style=for-the-badge&labelColor=050505" alt="Design Verification"/>
 <img src="https://img.shields.io/badge/RTL%20VERIFICATION-00FF41?style=for-the-badge&labelColor=050505" alt="RTL Verification"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-F5F5F5?style=for-the-badge&labelColor=050505" alt="SystemVerilog"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-00FF41?style=for-the-badge&labelColor=050505" alt="SystemVerilog"/>
 <img src="https://img.shields.io/badge/VERILOG-00FF41?style=for-the-badge&labelColor=050505" alt="Verilog"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-00FF41?style=flat-square&labelColor=0A0F0A" alt="Testbench Development"/>
-<img src="https://img.shields.io/badge/DIGITAL%20DESIGN-F5F5F5?style=flat-square&labelColor=0A0F0A" alt="Digital Design"/>
-<img src="https://img.shields.io/badge/HARDWARE%20DEBUGGING-00FF41?style=flat-square&labelColor=0A0F0A" alt="Hardware Debugging"/>
+<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-00FF41?style=flat-square&labelColor=080808" alt="Testbench Development"/>
+<img src="https://img.shields.io/badge/DIGITAL%20DESIGN-00FF41?style=flat-square&labelColor=080808" alt="Digital Design"/>
+<img src="https://img.shields.io/badge/HARDWARE%20DEBUGGING-00FF41?style=flat-square&labelColor=080808" alt="Hardware Debugging"/>
 
 </div>
 
@@ -90,13 +93,13 @@ GRADUATION  → B.Tech ECE | 2026
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/C-INTERMEDIATE-00FF41?style=flat-square&labelColor=050505&logo=c&logoColor=FFFFFF" alt="C"/>
-<img src="https://img.shields.io/badge/PYTHON-INTERMEDIATE-00FF41?style=flat-square&labelColor=050505&logo=python&logoColor=FFFFFF" alt="Python"/>
+<img src="https://img.shields.io/badge/C-INTERMEDIATE-00FF41?style=flat-square&logo=c&logoColor=00FF41" alt="C"/>
+<img src="https://img.shields.io/badge/PYTHON-INTERMEDIATE-00FF41?style=flat-square&logo=python&logoColor=00FF41" alt="Python"/>
 
 ### `HARDWARE DESCRIPTION LANGUAGES`
 
-<img src="https://img.shields.io/badge/VERILOG-RTL-00FF41?style=for-the-badge&labelColor=050505" alt="Verilog"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-LEARNING-F5F5F5?style=for-the-badge&labelColor=050505" alt="SystemVerilog Learning"/>
+<img src="https://img.shields.io/badge/VERILOG-RTL-00FF41?style=for-the-badge" alt="Verilog"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-LEARNING-00FF41?style=for-the-badge" alt="SystemVerilog Learning"/>
 
 ### `TOOLS & ENVIRONMENT`
 
@@ -104,9 +107,9 @@ GRADUATION  → B.Tech ECE | 2026
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ASSEMBLY%20LANGUAGE-BASICS-00FF41?style=flat-square&labelColor=050505" alt="Assembly Language Basics"/>
-<img src="https://img.shields.io/badge/GIT-VERSION%20CONTROL-F5F5F5?style=flat-square&logo=git&logoColor=00FF41&labelColor=050505" alt="Git"/>
-<img src="https://img.shields.io/badge/GITHUB-REPOSITORY%20MANAGEMENT-00FF41?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=050505" alt="GitHub"/>
+<img src="https://img.shields.io/badge/ASSEMBLY%20LANGUAGE-BASICS-00FF41?style=flat-square" alt="Assembly Language Basics"/>
+<img src="https://img.shields.io/badge/GIT-VERSION%20CONTROL-00FF41?style=flat-square&logo=git&logoColor=00FF41" alt="Git"/>
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORY%20MANAGEMENT-00FF41?style=flat-square&logo=github&logoColor=00FF41" alt="GitHub"/>
 
 </div>
 
@@ -149,11 +152,11 @@ Currently undergoing focused training in **Design Verification**, with emphasis 
 
 ### `CORE SKILLS`
 
-<img src="https://img.shields.io/badge/VERILOG-00FF41?style=flat-square&labelColor=050505" alt="Verilog"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-F5F5F5?style=flat-square&labelColor=050505" alt="SystemVerilog"/>
-<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-00FF41?style=flat-square&labelColor=050505" alt="Design Verification"/>
-<img src="https://img.shields.io/badge/RTL%20VERIFICATION-00FF41?style=flat-square&labelColor=050505" alt="RTL Verification"/>
-<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-F5F5F5?style=flat-square&labelColor=050505" alt="Testbench Development"/>
+<img src="https://img.shields.io/badge/VERILOG-00FF41?style=flat-square" alt="Verilog"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-00FF41?style=flat-square" alt="SystemVerilog"/>
+<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-00FF41?style=flat-square" alt="Design Verification"/>
+<img src="https://img.shields.io/badge/RTL%20VERIFICATION-00FF41?style=flat-square" alt="RTL Verification"/>
+<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-00FF41?style=flat-square" alt="Testbench Development"/>
 
 ---
 
@@ -190,7 +193,7 @@ A hands-on **Asynchronous FIFO verification project** focused on verifying FIFO 
 
 ### `TESTBENCH APPROACH`
 
-The testbench generates different write/read patterns and compares observed FIFO behavior against expected results.
+The testbench is designed to generate different write/read patterns and compare the observed FIFO behavior against expected results.
 
 * Clock generation for independent domains
 * Reset sequencing
@@ -206,10 +209,10 @@ The testbench generates different write/read patterns and compares observed FIFO
 ### `KEY VERIFICATION CONCEPTS`
 
 <img src="https://img.shields.io/badge/ASYNCHRONOUS-FIFO-00FF41?style=flat-square&labelColor=050505" alt="Asynchronous FIFO"/>
-<img src="https://img.shields.io/badge/CLOCK-DOMAIN%20CROSSING-F5F5F5?style=flat-square&labelColor=050505" alt="Clock Domain Crossing"/>
+<img src="https://img.shields.io/badge/CLOCK-DOMAIN%20CROSSING-00FF41?style=flat-square&labelColor=050505" alt="Clock Domain Crossing"/>
 <img src="https://img.shields.io/badge/GRAY-CODE-00FF41?style=flat-square&labelColor=050505" alt="Gray Code"/>
 <img src="https://img.shields.io/badge/TESTBENCH-DEVELOPMENT-00FF41?style=flat-square&labelColor=050505" alt="Testbench Development"/>
-<img src="https://img.shields.io/badge/RANDOMIZED-TESTING-F5F5F5?style=flat-square&labelColor=050505" alt="Randomized Testing"/>
+<img src="https://img.shields.io/badge/RANDOMIZED-TESTING-00FF41?style=flat-square&labelColor=050505" alt="Randomized Testing"/>
 <img src="https://img.shields.io/badge/SIMULATION-DEBUGGING-00FF41?style=flat-square&labelColor=050505" alt="Simulation Debugging"/>
 
 ---
@@ -302,9 +305,9 @@ Contributed to technical documentation and content creation for IETE student for
 
 <div align="left">
 
-<img src="https://img.shields.io/badge/TECHNICAL%20WRITING-00FF41?style=flat-square&labelColor=050505" alt="Technical Writing"/>
-<img src="https://img.shields.io/badge/DOCUMENTATION-F5F5F5?style=flat-square&labelColor=050505" alt="Documentation"/>
-<img src="https://img.shields.io/badge/TEAM%20COLLABORATION-00FF41?style=flat-square&labelColor=050505" alt="Team Collaboration"/>
+<img src="https://img.shields.io/badge/TECHNICAL%20WRITING-00FF41?style=flat-square" alt="Technical Writing"/>
+<img src="https://img.shields.io/badge/DOCUMENTATION-00FF41?style=flat-square" alt="Documentation"/>
+<img src="https://img.shields.io/badge/TEAM%20COLLABORATION-00FF41?style=flat-square" alt="Team Collaboration"/>
 
 </div>
 
@@ -314,7 +317,7 @@ Contributed to technical documentation and content creation for IETE student for
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/B.TECH-ELECTRONICS%20%26%20COMMUNICATION%20ENGINEERING-00FF41?style=for-the-badge&logo=graduation-cap&logoColor=FFFFFF&labelColor=050505" alt="B.Tech ECE"/>
+<img src="https://img.shields.io/badge/B.TECH-ELECTRONICS%20%26%20COMMUNICATION%20ENGINEERING-00FF41?style=for-the-badge&logo=graduation-cap&logoColor=00FF41" alt="B.Tech ECE"/>
 
 <br/><br/>
 
@@ -330,7 +333,7 @@ Contributed to technical documentation and content creation for IETE student for
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION%20TRAINING-VLSIGURU-00FF41?style=for-the-badge&labelColor=050505" alt="Design Verification Training at VLSIguru"/>
+<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION%20TRAINING-VLSIGURU-00FF41?style=for-the-badge" alt="Design Verification Training at VLSIguru"/>
 
 <br/><br/>
 
@@ -340,11 +343,11 @@ Contributed to technical documentation and content creation for IETE student for
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/VERILOG-00FF41?style=flat-square&labelColor=050505" alt="Verilog"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-F5F5F5?style=flat-square&labelColor=050505" alt="SystemVerilog"/>
-<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-00FF41?style=flat-square&labelColor=050505" alt="Design Verification"/>
-<img src="https://img.shields.io/badge/RTL%20VERIFICATION-F5F5F5?style=flat-square&labelColor=050505" alt="RTL Verification"/>
-<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-00FF41?style=flat-square&labelColor=050505" alt="Testbench Development"/>
+<img src="https://img.shields.io/badge/VERILOG-00FF41?style=flat-square" alt="Verilog"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-00FF41?style=flat-square" alt="SystemVerilog"/>
+<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-00FF41?style=flat-square" alt="Design Verification"/>
+<img src="https://img.shields.io/badge/RTL%20VERIFICATION-00FF41?style=flat-square" alt="RTL Verification"/>
+<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-00FF41?style=flat-square" alt="Testbench Development"/>
 
 </div>
 
@@ -369,16 +372,16 @@ Contributed to technical documentation and content creation for IETE student for
 <div align="center">
 
 <a href="https://github.com/Kondaveeti-SriSriKaliKrishna">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kondaveeti-SriSriKaliKrishna&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=F5F5F5&border_color=00FF41" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kondaveeti-SriSriKaliKrishna&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=E5E7EB&border_color=00FF41" alt="GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/Kondaveeti-SriSriKaliKrishna">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kondaveeti-SriSriKaliKrishna&layout=compact&hide_border=true&langs_count=8&bg_color=050505&title_color=00FF41&text_color=F5F5F5&border_color=00FF41" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kondaveeti-SriSriKaliKrishna&layout=compact&hide_border=true&langs_count=8&bg_color=050505&title_color=00FF41&text_color=E5E7EB&border_color=00FF41" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Kondaveeti-SriSriKaliKrishna&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=F5F5F5&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=Kondaveeti-SriSriKaliKrishna&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -398,7 +401,7 @@ Contributed to technical documentation and content creation for IETE student for
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kondaveeti-SriSriKaliKrishna&bg_color=050505&color=F5F5F5&line=00FF41&point=00FF41&area_color=003B16&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kondaveeti-SriSriKaliKrishna&bg_color=050505&color=E5E7EB&line=00FF41&point=00FF41&area_color=00FF41&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -467,15 +470,15 @@ open_to:
 ### `LET'S CONNECT`
 
 <a href="mailto:ksrisrikalikrishna@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-00FF41?style=for-the-badge&labelColor=050505&logo=gmail&logoColor=FFFFFF" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-FF1493?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ksskalikrishna" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&labelColor=050505&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Kondaveeti-SriSriKaliKrishna" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-F5F5F5?style=for-the-badge&labelColor=050505&logo=github&logoColor=00FF41" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-111111?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -483,7 +486,7 @@ open_to:
 | Platform     | Link                                                                                       |
 | :----------- | :----------------------------------------------------------------------------------------- |
 | **Email**    | [ksrisrikalikrishna@gmail.com](mailto:ksrisrikalikrishna@gmail.com)                        |
-| **LinkedIn** | [linkedin.com/in/ksskalikrishna](https://www.linkedin.com/in/ksskalikrishna)               |
+| **LinkedIn** | [linkedin.com/in/ksskalikrishna](https://linkedin.com/in/ksskalikrishna)                   |
 | **GitHub**   | [github.com/Kondaveeti-SriSriKaliKrishna](https://github.com/Kondaveeti-SriSriKaliKrishna) |
 
 </div>
@@ -492,16 +495,14 @@ open_to:
 
 <div align="center">
 
-### `VERIFY • DEBUG • LEARN • BUILD`
-
 > **"Verification is not just about finding bugs — it is about building confidence in the design."**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0A0F0A,70:003B16,100:00FF41&height=130&section=footer" width="100%" alt="Hacker Green Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0A0F0A,70:003B16,100:00FF41&height=130&section=footer&text=THANKS%20FOR%20VISITING&fontFamily=Times%20New%20Roman&fontSize=24&fontColor=00FF41&fontAlignY=35&animation=fadeIn" width="100%" alt="Hacker Green Footer"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/©%202026-Kondaveeti%20Sri%20Sri%20Kali%20Krishna-00FF41?style=for-the-badge&labelColor=050505" alt="Copyright 2026"/>
+<img src="https://img.shields.io/badge/©%202026-Kondaveeti%20Sri%20Sri%20Kali%20Krishna-00FF41?style=for-the-badge" alt="Copyright 2026"/>
 
 </div>
