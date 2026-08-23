@@ -43,19 +43,19 @@ I am interested in the engineering process behind verifying digital hardware, de
 ### `CURRENT STATUS`
 
 ```text
-ROLE        â†’ Design Verification Trainee
-EXPERIENCE  â†’ Fresher / Training
-DOMAIN      â†’ VLSI / Design Verification
-LOCATION    â†’ Bengaluru, Karnataka, India
-GRADUATION  â†’ B.Tech ECE | 2026
+ROLE        → Design Verification Trainee
+EXPERIENCE  → Fresher / Training
+DOMAIN      → VLSI / Design Verification
+LOCATION    → Bengaluru, Karnataka, India
+GRADUATION  → B.Tech ECE | 2026
 ```
 
 ### `OPEN TO`
 
-* Design Verification Engineer Roles
-* Design Verification Trainee Positions
-* VLSI Opportunities
-* Semiconductor Industry Roles
+- Design Verification Engineer Roles
+- Design Verification Trainee Positions
+- VLSI Opportunities
+- Semiconductor Industry Roles
 
 ---
 
@@ -129,21 +129,21 @@ GRADUATION  â†’ B.Tech ECE | 2026
 
 ### `DESIGN VERIFICATION TRAINEE`
 
-**VLSIguru Â· Bengaluru, Karnataka**
+**VLSIguru · Bengaluru, Karnataka**
 
-`2026 â€” Present`
+`2026 — Present`
 
 Currently undergoing focused training in **Design Verification**, with emphasis on hardware verification concepts, RTL behavior, and SystemVerilog.
 
 ### `TRAINING SCOPE`
 
-* Learning **SystemVerilog** for verification
-* Working with **Verilog** and RTL concepts
-* Developing verification-oriented testbenches
-* Understanding Design Verification fundamentals
-* Strengthening digital design concepts
-* Practicing hardware debugging and problem solving
-* Building a foundation for professional DV environments
+- Learning **SystemVerilog** for verification
+- Working with **Verilog** and RTL concepts
+- Developing verification-oriented testbenches
+- Understanding Design Verification fundamentals
+- Strengthening digital design concepts
+- Practicing hardware debugging and problem solving
+- Building a foundation for professional DV environments
 
 ### `CORE SKILLS`
 
@@ -157,49 +157,49 @@ Currently undergoing focused training in **Design Verification**, with emphasis 
 
 ## `06` // DESIGN VERIFICATION PROJECTS
 
-### âš¡ ASYNCHRONOUS FIFO â€” VERIFICATION
+### ⚡ ASYNCHRONOUS FIFO — VERIFICATION
 
 A hands-on **Asynchronous FIFO verification project** focused on verifying FIFO behavior across **independent write and read clock domains**.
 
 ### `VERIFICATION FEATURES`
 
-* Independent write and read clocks
-* Gray-coded read and write pointers
-* Two-flop clock-domain synchronization
-* Full and empty flag verification
-* Registered status flag behavior
-* Overflow and underflow error checking
-* Write and read pointer tracking
-* Concurrent read/write operations
-* Boundary-condition testing
-* Simulation-based debugging
+- Independent write and read clocks
+- Gray-coded read and write pointers
+- Two-flop clock-domain synchronization
+- Full and empty flag verification
+- Registered status flag behavior
+- Overflow and underflow error checking
+- Write and read pointer tracking
+- Concurrent read/write operations
+- Boundary-condition testing
+- Simulation-based debugging
 
 ### `TEST SCENARIOS`
 
-* **Basic Write â†’ Read**
-* **Read Faster Than Write**
-* **Write Faster Than Read**
-* **Concurrent Read / Write**
-* **FIFO Full Condition**
-* **FIFO Empty Condition**
-* **Overflow Attempt**
-* **Underflow Attempt**
-* **Boundary and Pointer Transition Testing**
+- **Basic Write → Read**
+- **Read Faster Than Write**
+- **Write Faster Than Read**
+- **Concurrent Read / Write**
+- **FIFO Full Condition**
+- **FIFO Empty Condition**
+- **Overflow Attempt**
+- **Underflow Attempt**
+- **Boundary and Pointer Transition Testing**
 
 ### `TESTBENCH APPROACH`
 
 The testbench is designed to generate different write/read patterns and compare the observed FIFO behavior against expected results.
 
-* Clock generation for independent domains
-* Reset sequencing
-* Directed stimulus
-* Randomized stimulus
-* Expected pointer tracking
-* Data integrity checking
-* FIFO status monitoring
-* Error-condition verification
-* `$display`-based debugging
-* Timing and delay analysis
+- Clock generation for independent domains
+- Reset sequencing
+- Directed stimulus
+- Randomized stimulus
+- Expected pointer tracking
+- Data integrity checking
+- FIFO status monitoring
+- Error-condition verification
+- `$display`-based debugging
+- Timing and delay analysis
 
 ### `KEY VERIFICATION CONCEPTS`
 
@@ -212,70 +212,70 @@ The testbench is designed to generate different write/read patterns and compare 
 
 ---
 
-### âš™ï¸ RTL MODULE VERIFICATION
+### ⚙️ RTL MODULE VERIFICATION
 
 Hands-on verification and simulation of fundamental **Verilog RTL modules**.
 
 ### `MODULES`
 
-* 2:1 Multiplexer
-* 2-to-4 Decoder
-* D Flip-Flop
-* Up Counter
-* Up/Down Counter
-* Mod-N Counter
-* Other combinational and sequential RTL modules
+- 2:1 Multiplexer
+- 2-to-4 Decoder
+- D Flip-Flop
+- Up Counter
+- Up/Down Counter
+- Mod-N Counter
+- Other combinational and sequential RTL modules
 
 ### `VERIFICATION FOCUS`
 
-* Functional correctness
-* Reset behavior
-* Input combinations
-* Counter boundary conditions
-* Sequential behavior
-* Expected-value checking
-* Simulation timing
-* RTL debugging
-* Testbench development
+- Functional correctness
+- Reset behavior
+- Input combinations
+- Counter boundary conditions
+- Sequential behavior
+- Expected-value checking
+- Simulation timing
+- RTL debugging
+- Testbench development
 
 ---
 
-### ðŸ§ª VERIFICATION TESTBENCH PRACTICE
+### 🧪 VERIFICATION TESTBENCH PRACTICE
 
 Developing and debugging Verilog/SystemVerilog testbenches to understand RTL behavior and simulator execution.
 
 ### `PRACTICE AREAS`
 
-* DUT instantiation
-* Clock generation
-* Reset generation
-* Stimulus generation
-* Directed test cases
-* Random stimulus
-* Expected-value checking
-* Concurrent operations
-* Race-condition awareness
-* Timing and delay analysis
-* `$display` debugging
-* Simulation result analysis
+- DUT instantiation
+- Clock generation
+- Reset generation
+- Stimulus generation
+- Directed test cases
+- Random stimulus
+- Expected-value checking
+- Concurrent operations
+- Race-condition awareness
+- Timing and delay analysis
+- `$display` debugging
+- Simulation result analysis
 
 ### `VERIFICATION WORKFLOW`
 
 ```text
 RTL / DUT
-    â†“
+    ↓
 Testbench
-    â†“
+    ↓
 Stimulus Generation
-    â†“
+    ↓
 DUT Execution
-    â†“
+    ↓
 Output Monitoring
-    â†“
+    ↓
 Expected vs Actual
-    â†“
+    ↓
 Debugging
-    â†“
+    ↓
 Pass / Fail
 ```
 
@@ -287,16 +287,16 @@ Pass / Fail
 
 **Documentation Team Member**
 
-`2024 â€” 2025`
+`2024 — 2025`
 
 Contributed to technical documentation and content creation for IETE student forum activities during B.Tech.
 
 ### `CONTRIBUTIONS`
 
-* Prepared and organized technical documentation
-* Supported technical events and student activities
-* Collaborated with team members on documentation
-* Developed technical writing and communication skills
+- Prepared and organized technical documentation
+- Supported technical events and student activities
+- Collaborated with team members on documentation
+- Developed technical writing and communication skills
 
 <div align="left">
 
@@ -332,9 +332,9 @@ Contributed to technical documentation and content creation for IETE student for
 
 <br/><br/>
 
-**VLSIguru Â· Bengaluru**
+**VLSIguru · Bengaluru**
 
-`Design Verification Trainee Â· Current`
+`Design Verification Trainee · Current`
 
 <br/><br/>
 
@@ -354,7 +354,7 @@ Contributed to technical documentation and content creation for IETE student for
 
 | Recognition                      | Details                                              |
 | :------------------------------- | :--------------------------------------------------- |
-| **IETE Student Forum**           | Documentation Team Member Â· 2024â€“2025                |
+| **IETE Student Forum**           | Documentation Team Member · 2024–2025                |
 | **Design Verification Training** | Currently undergoing focused DV training at VLSIguru |
 | **B.Tech ECE**                   | 2026 graduating batch                                |
 
@@ -490,7 +490,7 @@ open_to:
 
 <div align="center">
 
-> **"Verification is not just about finding bugs â€” it is about building confidence in the design."**
+> **"Verification is not just about finding bugs — it is about building confidence in the design."**
 
 <br/>
 
@@ -498,6 +498,6 @@ open_to:
 
 <br/>
 
-<img src="https://img.shields.io/badge/Â©%202026-Kondaveeti%20Sri%20Sri%20Kali%20Krishna-000000?style=for-the-badge&labelColor=00FF41" alt="Copyright 2026"/>
+<img src="https://img.shields.io/badge/©%202026-Kondaveeti%20Sri%20Sri%20Kali%20Krishna-000000?style=for-the-badge&labelColor=00FF41" alt="Copyright 2026"/>
 
 </div>
