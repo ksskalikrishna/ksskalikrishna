@@ -365,7 +365,7 @@ Contributed to technical documentation and content creation for IETE student for
 | :------------------------------- | :--------------------------------------------------- |
 | **IETE Student Forum**           | Documentation Team Member · 2024–2025                |
 | **Design Verification Training** | Currently undergoing focused DV training at VLSIguru |
-| **B.Tech ECE**                   | 2026 graduating batch                                |
+| **B.Tech ECE**                   | 2026 graduate                                        |
 
 </div>
 
