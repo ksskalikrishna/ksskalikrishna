@@ -6,7 +6,7 @@
 <div align="center">
 
   <!-- Grand Black Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=sparkle&color1=000000&color2=1a1a1a&color3=2d2d2d&height=280&section1=KONDAVEETI+SRI+SRI+KALI+KRISHNA&section2=Design+Verification+Engineer+%7C+VLSI+Enthusiast&bg=000000&animation=glow&border=8B5CF6" alt="Header Banner" />
+ <img src="https://capsule-render.vercel.app/api?type=matrix&color1=000000&color2=1a1a1a&height=280&section1=KONDAVEETI+SRI+SRI+KALI+KRISHNA&section2=Design+Verification+Engineer&bg=000000&border=8B5CF6" alt="Header" />
 
   <!-- Premium Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=8B5CF6&size=28&center=true&vCenter=true&width=700&height=60&lines=Design+Verification+Engineer;VLSI+%26+ASIC+Enthusiast;SystemVerilog+Developer;B.Tech+ECE+2026;VLSIguru+Trainee" alt="Typing SVG" />
