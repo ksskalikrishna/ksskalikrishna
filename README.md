@@ -36,9 +36,17 @@
 
 I am an **aspiring Design Verification Engineer** currently working as a **Design Verification Trainee at VLSIguru, Bengaluru**.
 
-I am pursuing my **B.Tech in Electronics and Communication Engineering (ECE)** with graduation in **2026**. My current focus is building a strong foundation in **RTL verification, Verilog, SystemVerilog, digital design, and testbench development** through focused training and hands-on practice.
+I completed my **B.Tech in Electronics and Communication Engineering (ECE)** in **2026** from **Vasireddy Venkatadri Institute of Technology, Guntur, Andhra Pradesh**. My current focus is building a strong foundation in **RTL verification, Verilog, SystemVerilog, digital design, and testbench development** through focused training and hands-on practice.
 
 I am interested in the engineering process behind verifying digital hardware, debugging RTL behavior, developing verification environments, and building reliable and reusable verification solutions.
+
+### `EXPANDING INTERESTS`
+
+Beyond hardware verification, I am actively exploring **Artificial Intelligence and its intersection with hardware systems**:
+
+- **AI & Agentic AI:** Understanding autonomous AI agents, decision-making systems, and their potential applications in verification workflows
+- **RAG (Retrieval-Augmented Generation):** Learning how AI systems retrieve and synthesize information, and exploring its applications in automated documentation and verification assistance
+- **AI-Hardware Co-design:** Interested in how AI accelerators are verified and the role of DV in next-generation AI chips
 
 ### `CURRENT STATUS`
 
@@ -52,6 +60,7 @@ GRADUATION  → B.Tech ECE | 2026
 
 ### `OPEN TO`
 
+- Design Verification Engineer Internships
 - Design Verification Engineer Roles
 - Design Verification Trainee Positions
 - VLSI Opportunities
