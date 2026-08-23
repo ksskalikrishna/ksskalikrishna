@@ -6,27 +6,29 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech-ECE%20%7C%202026-00FF41?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=050505" alt="B.Tech ECE 2026"/>
+<img src="https://img.shields.io/badge/B.TECH-ECE%20%7C%202026-00FF41?style=for-the-badge&labelColor=050505&logo=graduation-cap&logoColor=FFFFFF" alt="B.Tech ECE 2026"/>
 <img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-TRAINEE-00FF41?style=for-the-badge&labelColor=050505" alt="Design Verification Trainee"/>
-<img src="https://img.shields.io/badge/📍-BENGALURU%2C%20INDIA-F5F5F5?style=for-the-badge&labelColor=050505" alt="Bengaluru India"/>
+<img src="https://img.shields.io/badge/LOCATION-BENGALURU%2C%20INDIA-F5F5F5?style=for-the-badge&labelColor=050505" alt="Bengaluru India"/>
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/ksskalikrishna" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&labelColor=050505&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
+
 <a href="mailto:ksrisrikalikrishna@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-00FF41?style=for-the-badge&labelColor=050505&logo=gmail&logoColor=FFFFFF" alt="Email"/>
 </a>
+
 <a href="https://github.com/Kondaveeti-SriSriKaliKrishna" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-F5F5F5?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=050505" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-F5F5F5?style=for-the-badge&labelColor=050505&logo=github&logoColor=00FF41" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Kondaveeti-SriSriKaliKrishna&style=for-the-badge&color=00FF41&label=PROFILE+VIEWS&labelColor=050505" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00FF41&label=FOLLOWERS&logo=github&logoColor=white&labelColor=050505" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=F5F5F5&label=STARS&logo=github&logoColor=00FF41&labelColor=050505" alt="Stars"/>
+<img src="https://img.shields.io/github/followers/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00FF41&label=FOLLOWERS&logo=github&logoColor=FFFFFF&labelColor=050505" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00FF41&label=STARS&logo=github&logoColor=FFFFFF&labelColor=050505" alt="Stars"/>
 
 </div>
 
@@ -88,8 +90,8 @@ GRADUATION  → B.Tech ECE | 2026
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/C-INTERMEDIATE-00FF41?style=flat-square&logo=c&logoColor=white&labelColor=050505" alt="C"/>
-<img src="https://img.shields.io/badge/PYTHON-INTERMEDIATE-F5F5F5?style=flat-square&logo=python&logoColor=00FF41&labelColor=050505" alt="Python"/>
+<img src="https://img.shields.io/badge/C-INTERMEDIATE-00FF41?style=flat-square&labelColor=050505&logo=c&logoColor=FFFFFF" alt="C"/>
+<img src="https://img.shields.io/badge/PYTHON-INTERMEDIATE-00FF41?style=flat-square&labelColor=050505&logo=python&logoColor=FFFFFF" alt="Python"/>
 
 ### `HARDWARE DESCRIPTION LANGUAGES`
 
@@ -104,7 +106,7 @@ GRADUATION  → B.Tech ECE | 2026
 
 <img src="https://img.shields.io/badge/ASSEMBLY%20LANGUAGE-BASICS-00FF41?style=flat-square&labelColor=050505" alt="Assembly Language Basics"/>
 <img src="https://img.shields.io/badge/GIT-VERSION%20CONTROL-F5F5F5?style=flat-square&logo=git&logoColor=00FF41&labelColor=050505" alt="Git"/>
-<img src="https://img.shields.io/badge/GITHUB-REPOSITORY%20MANAGEMENT-00FF41?style=flat-square&logo=github&logoColor=white&labelColor=050505" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORY%20MANAGEMENT-00FF41?style=flat-square&logo=github&logoColor=FFFFFF&labelColor=050505" alt="GitHub"/>
 
 </div>
 
@@ -312,7 +314,7 @@ Contributed to technical documentation and content creation for IETE student for
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/B.TECH-ELECTRONICS%20%26%20COMMUNICATION%20ENGINEERING-00FF41?style=for-the-badge&logo=graduation-cap&logoColor=white&labelColor=050505" alt="B.Tech ECE"/>
+<img src="https://img.shields.io/badge/B.TECH-ELECTRONICS%20%26%20COMMUNICATION%20ENGINEERING-00FF41?style=for-the-badge&logo=graduation-cap&logoColor=FFFFFF&labelColor=050505" alt="B.Tech ECE"/>
 
 <br/><br/>
 
@@ -376,7 +378,7 @@ Contributed to technical documentation and content creation for IETE student for
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Kondaveeti-SriSriKaliKrishna&hide_border=true&background=050505&ring=00FF41&fire=39FF14&currStreakLabel=00FF41&sideLabels=F5F5F5&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=Kondaveeti-SriSriKaliKrishna&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=F5F5F5&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -396,7 +398,7 @@ Contributed to technical documentation and content creation for IETE student for
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kondaveeti-SriSriKaliKrishna&bg_color=050505&color=F5F5F5&line=00FF41&point=39FF14&area_color=003B16&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kondaveeti-SriSriKaliKrishna&bg_color=050505&color=F5F5F5&line=00FF41&point=00FF41&area_color=003B16&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -465,15 +467,15 @@ open_to:
 ### `LET'S CONNECT`
 
 <a href="mailto:ksrisrikalikrishna@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050505" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-00FF41?style=for-the-badge&labelColor=050505&logo=gmail&logoColor=FFFFFF" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ksskalikrishna" target="_blank">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050505" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&labelColor=050505&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Kondaveeti-SriSriKaliKrishna" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-F5F5F5?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=050505" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-F5F5F5?style=for-the-badge&labelColor=050505&logo=github&logoColor=00FF41" alt="GitHub"/>
 </a>
 
 <br/><br/>
