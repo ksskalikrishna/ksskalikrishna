@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0A0F0A,70:003B16,100:00B82E&height=220&section=header&text=KONDAVEETI%20SRI%20SRI%20KALI%20KRISHNA&fontFamily=Times%20New%20Roman&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0A0F0A,70:003B16,100:00FF41&height=220&section=header&text=KONDAVEETI%20SRI%20SRI%20KALI%20KRISHNA&fontFamily=Times%20New%20Roman&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00B82E&center=true&vCenter=true&width=800&height=55&lines=Design+Verification+Trainee;Aspiring+Design+Verification+Engineer;VLSI+%7C+Verilog+%7C+SystemVerilog;B.Tech+ECE+%7C+2026" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=800&height=55&lines=Design+Verification+Trainee;Aspiring+Design+Verification+Engineer;VLSI+%7C+Verilog+%7C+SystemVerilog;B.Tech+ECE+%7C+2026" alt="Typing Animation"/>
 
 <br/>
 
@@ -147,11 +147,11 @@ Currently undergoing focused training in **Design Verification**, with emphasis 
 
 ### `CORE SKILLS`
 
-<img src="https://img.shields.io/badge/VERILOG-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Verilog"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="SystemVerilog"/>
-<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Design Verification"/>
-<img src="https://img.shields.io/badge/RTL%20VERIFICATION-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="RTL Verification"/>
-<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Testbench Development"/>
+<img src="https://img.shields.io/badge/VERILOG-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Verilog"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-000000?style=flat-square&labelColor=000000&color=00B82E" alt="SystemVerilog"/>
+<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Design Verification"/>
+<img src="https://img.shields.io/badge/RTL%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="RTL Verification"/>
+<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Testbench Development"/>
 
 ---
 
@@ -203,12 +203,12 @@ The testbench is designed to generate different write/read patterns and compare 
 
 ### `KEY VERIFICATION CONCEPTS`
 
-<img src="https://img.shields.io/badge/ASYNCHRONOUS-FIFO-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Asynchronous FIFO"/>
-<img src="https://img.shields.io/badge/CLOCK-DOMAIN%20CROSSING-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Clock Domain Crossing"/>
-<img src="https://img.shields.io/badge/GRAY-CODE-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Gray Code"/>
-<img src="https://img.shields.io/badge/TESTBENCH-DEVELOPMENT-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Testbench Development"/>
-<img src="https://img.shields.io/badge/RANDOMIZED-TESTING-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Randomized Testing"/>
-<img src="https://img.shields.io/badge/SIMULATION-DEBUGGING-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Simulation Debugging"/>
+<img src="https://img.shields.io/badge/ASYNCHRONOUS-FIFO-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Asynchronous FIFO"/>
+<img src="https://img.shields.io/badge/CLOCK-DOMAIN%20CROSSING-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Clock Domain Crossing"/>
+<img src="https://img.shields.io/badge/GRAY-CODE-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Gray Code"/>
+<img src="https://img.shields.io/badge/TESTBENCH-DEVELOPMENT-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Testbench Development"/>
+<img src="https://img.shields.io/badge/RANDOMIZED-TESTING-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Randomized Testing"/>
+<img src="https://img.shields.io/badge/SIMULATION-DEBUGGING-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Simulation Debugging"/>
 
 ---
 
@@ -338,11 +338,11 @@ Contributed to technical documentation and content creation for IETE student for
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/VERILOG-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Verilog"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="SystemVerilog"/>
-<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Design Verification"/>
-<img src="https://img.shields.io/badge/RTL%20VERIFICATION-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="RTL Verification"/>
-<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-00B82E?style=flat-square&labelColor=00B82E&color=000000" alt="Testbench Development"/>
+<img src="https://img.shields.io/badge/VERILOG-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Verilog"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-000000?style=flat-square&labelColor=000000&color=00B82E" alt="SystemVerilog"/>
+<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Design Verification"/>
+<img src="https://img.shields.io/badge/RTL%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="RTL Verification"/>
+<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Testbench Development"/>
 
 </div>
 
@@ -494,7 +494,7 @@ open_to:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B82E,35:003B16,70:0A0F0A,100:050505&height=130&section=footer" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,35:003B16,70:0A0F0A,100:050505&height=130&section=footer" width="100%" alt="Footer Banner"/>
 
 <br/>
 
