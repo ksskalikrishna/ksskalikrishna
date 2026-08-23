@@ -147,11 +147,11 @@ Currently undergoing focused training in **Design Verification**, with emphasis 
 
 ### `CORE SKILLS`
 
-<img src="https://img.shields.io/badge/VERILOG-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Verilog"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-000000?style=flat-square&labelColor=000000&color=00B82E" alt="SystemVerilog"/>
-<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Design Verification"/>
-<img src="https://img.shields.io/badge/RTL%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="RTL Verification"/>
-<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Testbench Development"/>
+<img src="https://img.shields.io/badge/VERILOG-000000?style=flat-square&labelColor=000000&color=006622" alt="Verilog"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-000000?style=flat-square&labelColor=000000&color=006622" alt="SystemVerilog"/>
+<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=006622" alt="Design Verification"/>
+<img src="https://img.shields.io/badge/RTL%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=006622" alt="RTL Verification"/>
+<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-000000?style=flat-square&labelColor=000000&color=006622" alt="Testbench Development"/>
 
 ---
 
