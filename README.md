@@ -102,7 +102,7 @@ GRADUATION  → B.Tech ECE | 2026
 ### `HARDWARE DESCRIPTION LANGUAGES`
 
 <img src="https://img.shields.io/badge/VERILOG-RTL-000000?style=for-the-badge&labelColor=00B82E" alt="Verilog"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-LEARNING-000000?style=for-the-badge&labelColor=006622" alt="SystemVerilog Learning"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-LEARNING-000000?style=for-the-badge&labelColor=00B82E" alt="SystemVerilog Learning"/>
 
 ### `TOOLS & ENVIRONMENT`
 
