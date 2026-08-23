@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001F0A,80:00B82E,100:00FF41&height=220&section=header&text=KONDAVEETI%20SRI%20SRI%20KALI%20KRISHNA&fontFamily=Times%20New%20Roman&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Header Banner"/>
 
@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/B.Tech-ECE%20%7C%202026-000000?style=for-the-badge&labelColor=00B82E" alt="B.Tech ECE 2026"/>
 <img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-TRAINEE-000000?style=for-the-badge&labelColor=00B82E" alt="Design Verification Trainee"/>
-<img src="https://img.shields.io/badge/BENGALURU%2C%20INDIA-000000?style=for-the-badge&labelColor=003B16&color=00B82E" alt="Bengaluru India"/>
+<img src="https://img.shields.io/badge/BENGALURU%2C%20INDIA-000000?style=for-the-badge&labelColor=001F0A&color=00B82E" alt="Bengaluru India"/>
 
 <br/><br/>
 
@@ -16,99 +16,96 @@
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
 </a>
 
-
 <a href="mailto:ksrisrikalikrishna@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
 </a>
+
 <a href="https://github.com/Kondaveeti-SriSriKaliKrishna" target="_blank">
 <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://hits.sh/github.com/Kondaveeti-SriSriKaliKrishna.svg?style=for-the-badge&color=00B82E&labelColor=050505&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00B82E&label=FOLLOWERS&logo=github&logoColor=00B82E&labelColor=000000" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00B82E&label=STARS&logo=star&logoColor=00B82E&labelColor=000000" alt="Stars"/>
+<img src="https://hits.sh/github.com/Kondaveeti-SriSriKaliKrishna.svg?style=for-the-badge&color=00B82E&labelColor=000000&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00B82E&label=FOLLOWERS&logo=github&logoColor=00FF41&labelColor=000000" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Kondaveeti-SriSriKaliKrishna?style=for-the-badge&color=00B82E&label=STARS&logo=star&logoColor=00FF41&labelColor=000000" alt="Stars"/>
 
 </div>
 
----
+01 // ABOUT ME
 
-## `01` // ABOUT ME
+I am an aspiring Design Verification Engineer currently working as a Design Verification Trainee at VLSIguru, Bengaluru.
 
-I am an **aspiring Design Verification Engineer** currently working as a **Design Verification Trainee at VLSIguru, Bengaluru**.
-
-I completed my **B.Tech in Electronics and Communication Engineering (ECE)** in **2026** from **Vasireddy Venkatadri Institute of Technology, Guntur, Andhra Pradesh**. My current focus is building a strong foundation in **RTL verification, Verilog, SystemVerilog, digital design, and testbench development** through focused training and hands-on practice.
+I completed my B.Tech in Electronics and Communication Engineering (ECE) in 2026 from Vasireddy Venkatadri Institute of Technology, Guntur, Andhra Pradesh. My current focus is building a strong foundation in RTL verification, Verilog, SystemVerilog, digital design, and testbench development through focused training and hands-on practice.
 
 I am interested in the engineering process behind verifying digital hardware, debugging RTL behavior, developing verification environments, and building reliable and reusable verification solutions.
 
-### `EXPANDING INTERESTS`
+EXPANDING INTERESTS
 
-Beyond hardware verification, I am actively exploring **Artificial Intelligence and its intersection with hardware systems**:
+Beyond hardware verification, I am actively exploring Artificial Intelligence and its intersection with hardware systems:
 
-- **AI & Agentic AI:** Understanding autonomous AI agents, decision-making systems, and their potential applications in verification workflows
-- **RAG (Retrieval-Augmented Generation):** Learning how AI systems retrieve and synthesize information, and exploring its applications in automated documentation and verification assistance
-- **AI-Hardware Co-design:** Interested in how AI accelerators are verified and the role of DV in next-generation AI chips
+AI & Agentic AI: Understanding autonomous AI agents, decision-making systems, and their potential applications in verification workflows
 
-### `CURRENT STATUS`
+RAG (Retrieval-Augmented Generation): Learning how AI systems retrieve and synthesize information, and exploring its applications in automated documentation and verification assistance
 
-```text
-ROLE        â†’ Design Verification Trainee
-EXPERIENCE  â†’ Fresher / Training
-DOMAIN      â†’ VLSI / Design Verification
-LOCATION    â†’ Bengaluru, Karnataka, India
-GRADUATION  â†’ B.Tech ECE | 2026
-```
+AI-Hardware Co-design: Interested in how AI accelerators are verified and the role of DV in next-generation AI chips
 
-### `OPEN TO`
+CURRENT STATUS
 
-- Design Verification Engineer Internships
-- Design Verification Engineer Roles
-- Design Verification Trainee Positions
-- VLSI Opportunities
-- Semiconductor Industry Roles
+ROLE        → Design Verification Trainee
+EXPERIENCE  → Fresher / Training
+DOMAIN      → VLSI / Design Verification
+LOCATION    → Bengaluru, Karnataka, India
+GRADUATION  → B.Tech ECE | 2026
 
----
+OPEN TO
 
-## `02` // TECHNICAL FOCUS
+Design Verification Engineer Internships
+
+Design Verification Engineer Roles
+
+Design Verification Trainee Positions
+
+VLSI Opportunities
+
+Semiconductor Industry Roles
+
+02 // TECHNICAL FOCUS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-000000?style=for-the-badge&labelColor=08080D&color=00B82E" alt="Design Verification"/>
-<img src="https://img.shields.io/badge/RTL%20VERIFICATION-000000?style=for-the-badge&labelColor=08080D&color=00B82E" alt="RTL Verification"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-000000?style=for-the-badge&labelColor=08080D&color=00B82E" alt="SystemVerilog"/>
-<img src="https://img.shields.io/badge/VERILOG-000000?style=for-the-badge&labelColor=08080D&color=00B82E" alt="Verilog"/>
+<img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-000000?style=for-the-badge&labelColor=001F0A&color=00B82E" alt="Design Verification"/>
+<img src="https://img.shields.io/badge/RTL%20VERIFICATION-000000?style=for-the-badge&labelColor=001F0A&color=00B82E" alt="RTL Verification"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-000000?style=for-the-badge&labelColor=001F0A&color=00FF41" alt="SystemVerilog"/>
+<img src="https://img.shields.io/badge/VERILOG-000000?style=for-the-badge&labelColor=001F0A&color=00B82E" alt="Verilog"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Testbench Development"/>
-<img src="https://img.shields.io/badge/DIGITAL%20DESIGN-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Digital Design"/>
-<img src="https://img.shields.io/badge/HARDWARE%20DEBUGGING-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Hardware Debugging"/>
+<img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-000000?style=flat-square&labelColor=001F0A&color=00B82E" alt="Testbench Development"/>
+<img src="https://img.shields.io/badge/DIGITAL%20DESIGN-000000?style=flat-square&labelColor=001F0A&color=00FF41" alt="Digital Design"/>
+<img src="https://img.shields.io/badge/HARDWARE%20DEBUGGING-000000?style=flat-square&labelColor=001F0A&color=00B82E" alt="Hardware Debugging"/>
 
 </div>
 
----
-
-## `03` // TECH STACK
+03 // TECH STACK
 
 <div align="center">
 
-### `PROGRAMMING`
+PROGRAMMING
 
 <img src="https://skillicons.dev/icons?i=c,python&theme=dark" alt="C and Python"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/C-INTERMEDIATE-000000?style=flat-square&logo=c&logoColor=00B82E&labelColor=000000" alt="C"/>
-<img src="https://img.shields.io/badge/PYTHON-INTERMEDIATE-000000?style=flat-square&logo=python&logoColor=00B82E&labelColor=000000" alt="Python"/>
+<img src="https://img.shields.io/badge/PYTHON-INTERMEDIATE-000000?style=flat-square&logo=python&logoColor=00FF41&labelColor=000000" alt="Python"/>
 
-### `HARDWARE DESCRIPTION LANGUAGES`
+HARDWARE DESCRIPTION LANGUAGES
 
 <img src="https://img.shields.io/badge/VERILOG-RTL-000000?style=for-the-badge&labelColor=00B82E" alt="Verilog"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-LEARNING-000000?style=for-the-badge&labelColor=046A26" alt="SystemVerilog Learning"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-LEARNING-000000?style=for-the-badge&labelColor=00FF41" alt="SystemVerilog Learning"/>
 
-### `TOOLS & ENVIRONMENT`
+TOOLS & ENVIRONMENT
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Linux Git GitHub VS Code"/>
 
@@ -116,211 +113,298 @@ GRADUATION  â†’ B.Tech ECE | 2026
 
 <img src="https://img.shields.io/badge/ASSEMBLY%20LANGUAGE-BASICS-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Assembly Language Basics"/>
 <img src="https://img.shields.io/badge/GIT-VERSION%20CONTROL-000000?style=flat-square&logo=git&logoColor=00B82E&labelColor=000000" alt="Git"/>
-<img src="https://img.shields.io/badge/GITHUB-REPOSITORY%20MANAGEMENT-000000?style=flat-square&logo=github&logoColor=00B82E&labelColor=000000" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-REPOSITORY%20MANAGEMENT-000000?style=flat-square&logo=github&logoColor=00FF41&labelColor=000000" alt="GitHub"/>
 
 </div>
 
----
+04 // SKILLS PROFICIENCY
 
-## `04` // SKILLS PROFICIENCY
+Skill
 
-| Skill                   | Proficiency Level | Details                                                  |
-| :---------------------- | :---------------: | :------------------------------------------------------- |
-| **C**                   |    Intermediate   | Programming fundamentals and problem solving             |
-| **Python**              |    Intermediate   | Programming fundamentals and scripting                   |
-| **Verilog**             |    Intermediate   | RTL design, simulation and digital design fundamentals   |
-| **SystemVerilog**       |     Developing    | Currently learning SystemVerilog for Design Verification |
-| **Design Verification** |     Developing    | Verification fundamentals and testbench concepts         |
-| **Assembly Language**   |       Basic       | Fundamental assembly programming concepts                |
-| **Linux**               |       Basic       | Command-line and development environment fundamentals    |
-| **Git & GitHub**        |     Developing    | Version control and repository management                |
+Proficiency Level
 
----
+Details
 
-## `05` // EXPERIENCE
+C
 
-### `DESIGN VERIFICATION TRAINEE`
+Intermediate
 
-**VLSIguru Â· Bengaluru, Karnataka**
+Programming fundamentals and problem solving
 
-`2026 â€” Present`
+Python
 
-Currently undergoing focused training in **Design Verification**, with emphasis on hardware verification concepts, RTL behavior, and SystemVerilog.
+Intermediate
 
-### `TRAINING SCOPE`
+Programming fundamentals and scripting
 
-- Learning **SystemVerilog** for verification
-- Working with **Verilog** and RTL concepts
-- Developing verification-oriented testbenches
-- Understanding Design Verification fundamentals
-- Strengthening digital design concepts
-- Practicing hardware debugging and problem solving
-- Building a foundation for professional DV environments
+Verilog
 
-### `CORE SKILLS`
+Intermediate
+
+RTL design, simulation and digital design fundamentals
+
+SystemVerilog
+
+Developing
+
+Currently learning SystemVerilog for Design Verification
+
+Design Verification
+
+Developing
+
+Verification fundamentals and testbench concepts
+
+Assembly Language
+
+Basic
+
+Fundamental assembly programming concepts
+
+Linux
+
+Basic
+
+Command-line and development environment fundamentals
+
+Git & GitHub
+
+Developing
+
+Version control and repository management
+
+05 // EXPERIENCE
+
+DESIGN VERIFICATION TRAINEE
+
+VLSIguru · Bengaluru, Karnataka
+
+2026 — Present
+
+Currently undergoing focused training in Design Verification, with emphasis on hardware verification concepts, RTL behavior, and SystemVerilog.
+
+TRAINING SCOPE
+
+Learning SystemVerilog for verification
+
+Working with Verilog and RTL concepts
+
+Developing verification-oriented testbenches
+
+Understanding Design Verification fundamentals
+
+Strengthening digital design concepts
+
+Practicing hardware debugging and problem solving
+
+Building a foundation for professional DV environments
+
+CORE SKILLS
 
 <img src="https://img.shields.io/badge/VERILOG-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Verilog"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-000000?style=flat-square&labelColor=000000&color=046A26" alt="SystemVerilog"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-000000?style=flat-square&labelColor=000000&color=00FF41" alt="SystemVerilog"/>
 <img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Design Verification"/>
-<img src="https://img.shields.io/badge/RTL%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="RTL Verification"/>
+<img src="https://img.shields.io/badge/RTL%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00FF41" alt="RTL Verification"/>
 <img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Testbench Development"/>
 
----
+06 // DESIGN VERIFICATION PROJECTS
 
-## `06` // DESIGN VERIFICATION PROJECTS
+⚡ ASYNCHRONOUS FIFO — VERIFICATION
 
-### âš¡ ASYNCHRONOUS FIFO â€” VERIFICATION
+A hands-on Asynchronous FIFO verification project focused on verifying FIFO behavior across independent write and read clock domains.
 
-A hands-on **Asynchronous FIFO verification project** focused on verifying FIFO behavior across **independent write and read clock domains**.
+VERIFICATION FEATURES
 
-### `VERIFICATION FEATURES`
+Independent write and read clocks
 
-- Independent write and read clocks
-- Gray-coded read and write pointers
-- Two-flop clock-domain synchronization
-- Full and empty flag verification
-- Registered status flag behavior
-- Overflow and underflow error checking
-- Write and read pointer tracking
-- Concurrent read/write operations
-- Boundary-condition testing
-- Simulation-based debugging
+Gray-coded read and write pointers
 
-### `TEST SCENARIOS`
+Two-flop clock-domain synchronization
 
-- **Basic Write â†’ Read**
-- **Read Faster Than Write**
-- **Write Faster Than Read**
-- **Concurrent Read / Write**
-- **FIFO Full Condition**
-- **FIFO Empty Condition**
-- **Overflow Attempt**
-- **Underflow Attempt**
-- **Boundary and Pointer Transition Testing**
+Full and empty flag verification
 
-### `TESTBENCH APPROACH`
+Registered status flag behavior
+
+Overflow and underflow error checking
+
+Write and read pointer tracking
+
+Concurrent read/write operations
+
+Boundary-condition testing
+
+Simulation-based debugging
+
+TEST SCENARIOS
+
+Basic Write → Read
+
+Read Faster Than Write
+
+Write Faster Than Read
+
+Concurrent Read / Write
+
+FIFO Full Condition
+
+FIFO Empty Condition
+
+Overflow Attempt
+
+Underflow Attempt
+
+Boundary and Pointer Transition Testing
+
+TESTBENCH APPROACH
 
 The testbench is designed to generate different write/read patterns and compare the observed FIFO behavior against expected results.
 
-- Clock generation for independent domains
-- Reset sequencing
-- Directed stimulus
-- Randomized stimulus
-- Expected pointer tracking
-- Data integrity checking
-- FIFO status monitoring
-- Error-condition verification
-- `$display`-based debugging
-- Timing and delay analysis
+Clock generation for independent domains
 
-### `KEY VERIFICATION CONCEPTS`
+Reset sequencing
 
-<img src="https://img.shields.io/badge/ASYNCHRONOUS-FIFO-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Asynchronous FIFO"/>
-<img src="https://img.shields.io/badge/CLOCK-DOMAIN%20CROSSING-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Clock Domain Crossing"/>
-<img src="https://img.shields.io/badge/GRAY-CODE-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Gray Code"/>
-<img src="https://img.shields.io/badge/TESTBENCH-DEVELOPMENT-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Testbench Development"/>
-<img src="https://img.shields.io/badge/RANDOMIZED-TESTING-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Randomized Testing"/>
-<img src="https://img.shields.io/badge/SIMULATION-DEBUGGING-111118?style=flat-square&labelColor=111118&color=00B82E" alt="Simulation Debugging"/>
+Directed stimulus
 
----
+Randomized stimulus
 
-### âš™ï¸ RTL MODULE VERIFICATION
+Expected pointer tracking
 
-Hands-on verification and simulation of fundamental **Verilog RTL modules**.
+Data integrity checking
 
-### `MODULES`
+FIFO status monitoring
 
-- 2:1 Multiplexer
-- 2-to-4 Decoder
-- D Flip-Flop
-- Up Counter
-- Up/Down Counter
-- Mod-N Counter
-- Other combinational and sequential RTL modules
+Error-condition verification
 
-### `VERIFICATION FOCUS`
+$display-based debugging
 
-- Functional correctness
-- Reset behavior
-- Input combinations
-- Counter boundary conditions
-- Sequential behavior
-- Expected-value checking
-- Simulation timing
-- RTL debugging
-- Testbench development
+Timing and delay analysis
 
----
+KEY VERIFICATION CONCEPTS
 
-### ðŸ§ª VERIFICATION TESTBENCH PRACTICE
+<img src="https://img.shields.io/badge/ASYNCHRONOUS-FIFO-000000?style=flat-square&labelColor=001F0A&color=00B82E" alt="Asynchronous FIFO"/>
+<img src="https://img.shields.io/badge/CLOCK-DOMAIN%20CROSSING-000000?style=flat-square&labelColor=001F0A&color=00FF41" alt="Clock Domain Crossing"/>
+<img src="https://img.shields.io/badge/GRAY-CODE-000000?style=flat-square&labelColor=001F0A&color=00B82E" alt="Gray Code"/>
+<img src="https://img.shields.io/badge/TESTBENCH-DEVELOPMENT-000000?style=flat-square&labelColor=001F0A&color=00FF41" alt="Testbench Development"/>
+<img src="https://img.shields.io/badge/RANDOMIZED-TESTING-000000?style=flat-square&labelColor=001F0A&color=00B82E" alt="Randomized Testing"/>
+<img src="https://img.shields.io/badge/SIMULATION-DEBUGGING-000000?style=flat-square&labelColor=001F0A&color=00FF41" alt="Simulation Debugging"/>
+
+⚙️ RTL MODULE VERIFICATION
+
+Hands-on verification and simulation of fundamental Verilog RTL modules.
+
+MODULES
+
+2:1 Multiplexer
+
+2-to-4 Decoder
+
+D Flip-Flop
+
+Up Counter
+
+Up/Down Counter
+
+Mod-N Counter
+
+Other combinational and sequential RTL modules
+
+VERIFICATION FOCUS
+
+Functional correctness
+
+Reset behavior
+
+Input combinations
+
+Counter boundary conditions
+
+Sequential behavior
+
+Expected-value checking
+
+Simulation timing
+
+RTL debugging
+
+Testbench development
+
+🧪 VERIFICATION TESTBENCH PRACTICE
 
 Developing and debugging Verilog/SystemVerilog testbenches to understand RTL behavior and simulator execution.
 
-### `PRACTICE AREAS`
+PRACTICE AREAS
 
-- DUT instantiation
-- Clock generation
-- Reset generation
-- Stimulus generation
-- Directed test cases
-- Random stimulus
-- Expected-value checking
-- Concurrent operations
-- Race-condition awareness
-- Timing and delay analysis
-- `$display` debugging
-- Simulation result analysis
+DUT instantiation
 
-### `VERIFICATION WORKFLOW`
+Clock generation
 
-```text
+Reset generation
+
+Stimulus generation
+
+Directed test cases
+
+Random stimulus
+
+Expected-value checking
+
+Concurrent operations
+
+Race-condition awareness
+
+Timing and delay analysis
+
+$display debugging
+
+Simulation result analysis
+
+VERIFICATION WORKFLOW
+
 RTL / DUT
-    â†“
+    ↓
 Testbench
-    â†“
+    ↓
 Stimulus Generation
-    â†“
+    ↓
 DUT Execution
-    â†“
+    ↓
 Output Monitoring
-    â†“
+    ↓
 Expected vs Actual
-    â†“
+    ↓
 Debugging
-    â†“
+    ↓
 Pass / Fail
-```
 
----
+07 // EXTRACURRICULAR & LEADERSHIP
 
-## `07` // EXTRACURRICULAR & LEADERSHIP
+IETE STUDENT FORUM
 
-### `IETE STUDENT FORUM`
+Documentation Team Member
 
-**Documentation Team Member**
-
-`2024 â€” 2025`
+2024 — 2025
 
 Contributed to technical documentation and content creation for IETE student forum activities during B.Tech.
 
-### `CONTRIBUTIONS`
+CONTRIBUTIONS
 
-- Prepared and organized technical documentation
-- Supported technical events and student activities
-- Collaborated with team members on documentation
-- Developed technical writing and communication skills
+Prepared and organized technical documentation
+
+Supported technical events and student activities
+
+Collaborated with team members on documentation
+
+Developed technical writing and communication skills
 
 <div align="left">
 
 <img src="https://img.shields.io/badge/TECHNICAL%20WRITING-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Technical Writing"/>
-<img src="https://img.shields.io/badge/DOCUMENTATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Documentation"/>
+<img src="https://img.shields.io/badge/DOCUMENTATION-000000?style=flat-square&labelColor=000000&color=00FF41" alt="Documentation"/>
 <img src="https://img.shields.io/badge/TEAM%20COLLABORATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Team Collaboration"/>
 
 </div>
 
----
-
-## `08` // EDUCATION
+08 // EDUCATION
 
 <div align="center">
 
@@ -328,15 +412,13 @@ Contributed to technical documentation and content creation for IETE student for
 
 <br/><br/>
 
-### Electronics and Communication Engineering
+Electronics and Communication Engineering
 
-**Graduation:** `2026`
+Graduation: 2026
 
 </div>
 
----
-
-## `09` // TRAINING
+09 // TRAINING
 
 <div align="center">
 
@@ -344,57 +426,61 @@ Contributed to technical documentation and content creation for IETE student for
 
 <br/><br/>
 
-**VLSIguru Â· Bengaluru**
+VLSIguru · Bengaluru
 
-`Design Verification Trainee Â· Current`
+Design Verification Trainee · Current
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/VERILOG-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Verilog"/>
-<img src="https://img.shields.io/badge/SYSTEMVERILOG-000000?style=flat-square&labelColor=000000&color=046A26" alt="SystemVerilog"/>
+<img src="https://img.shields.io/badge/SYSTEMVERILOG-000000?style=flat-square&labelColor=000000&color=00FF41" alt="SystemVerilog"/>
 <img src="https://img.shields.io/badge/DESIGN%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Design Verification"/>
-<img src="https://img.shields.io/badge/RTL%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00B82E" alt="RTL Verification"/>
+<img src="https://img.shields.io/badge/RTL%20VERIFICATION-000000?style=flat-square&labelColor=000000&color=00FF41" alt="RTL Verification"/>
 <img src="https://img.shields.io/badge/TESTBENCH%20DEVELOPMENT-000000?style=flat-square&labelColor=000000&color=00B82E" alt="Testbench Development"/>
 
 </div>
 
----
-
-## `10` // ACHIEVEMENTS & RECOGNITION
+10 // ACHIEVEMENTS & RECOGNITION
 
 <div align="center">
 
-| Recognition                      | Details                                              |
-| :------------------------------- | :--------------------------------------------------- |
-| **IETE Student Forum**           | Documentation Team Member Â· 2024â€“2025                |
-| **Design Verification Training** | Currently undergoing focused DV training at VLSIguru |
-| **B.Tech ECE**                   | 2026 graduate                                        |
+Recognition
+
+Details
+
+IETE Student Forum
+
+Documentation Team Member · 2024–2025
+
+Design Verification Training
+
+Currently undergoing focused DV training at VLSIguru
+
+B.Tech ECE
+
+2026 graduate
 
 </div>
 
----
-
-## `11` // GITHUB ANALYTICS
+11 // GITHUB ANALYTICS
 
 <div align="center">
 
 <a href="https://github.com/Kondaveeti-SriSriKaliKrishna">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kondaveeti-SriSriKaliKrishna&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=08080D&title_color=00B82E&icon_color=00B82E&text_color=E5E7EB&border_color=003B16" alt="GitHub Statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kondaveeti-SriSriKaliKrishna&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=000000&title_color=00FF41&icon_color=00B82E&text_color=FFFFFF&border_color=001F0A" alt="GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/Kondaveeti-SriSriKaliKrishna">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kondaveeti-SriSriKaliKrishna&layout=compact&hide_border=true&langs_count=8&bg_color=08080D&title_color=00B82E&text_color=E5E7EB&border_color=003B16" alt="Top Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kondaveeti-SriSriKaliKrishna&layout=compact&hide_border=true&langs_count=8&bg_color=000000&title_color=00FF41&text_color=FFFFFF&border_color=001F0A" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Kondaveeti-SriSriKaliKrishna&hide_border=true&background=08080D&ring=00B82E&fire=00B82E&currStreakLabel=00B82E&sideLabels=00B82E&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=Kondaveeti-SriSriKaliKrishna&hide_border=true&background=000000&ring=00FF41&fire=00B82E&currStreakLabel=00FF41&sideLabels=00FF41&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Contribution Streak"/>
 
 </div>
 
----
-
-## `12` // GITHUB TROPHIES
+12 // GITHUB TROPHIES
 
 <div align="center">
 
@@ -402,19 +488,15 @@ Contributed to technical documentation and content creation for IETE student for
 
 </div>
 
----
-
-## `13` // CONTRIBUTION ACTIVITY
+13 // CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kondaveeti-SriSriKaliKrishna&bg_color=08080D&color=E5E7EB&line=00B82E&point=00B82E&area_color=003B16&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" alt="GitHub Contribution Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kondaveeti-SriSriKaliKrishna&bg_color=000000&color=FFFFFF&line=00FF41&point=00B82E&area_color=001F0A&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="95%" alt="GitHub Contribution Activity"/>
 
 </div>
 
----
-
-## `14` // CONTRIBUTION SNAKE
+14 // CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -422,11 +504,8 @@ Contributed to technical documentation and content creation for IETE student for
 
 </div>
 
----
+15 // CURRENT FOCUS
 
-## `15` // CURRENT FOCUS
-
-```yaml
 current_role: Design Verification Trainee
 organization: VLSIguru
 location: Bengaluru, India
@@ -466,15 +545,12 @@ open_to:
   - DV Trainee Positions
   - VLSI Opportunities
   - Semiconductor Industry Roles
-```
 
----
-
-## `16` // CONNECT
+16 // CONNECT
 
 <div align="center">
 
-### `LET'S CONNECT`
+LET'S CONNECT
 
 <a href="mailto:ksrisrikalikrishna@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email"/>
@@ -485,31 +561,41 @@ open_to:
 </a>
 
 <a href="https://github.com/Kondaveeti-SriSriKaliKrishna" target="_blank">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-F5F5F5?style=for-the-badge&logo=github&logoColor=black&labelColor=000000" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-| Platform     | Link                                                                                       |
-| :----------- | :----------------------------------------------------------------------------------------- |
-| **Email**    | [ksrisrikalikrishna@gmail.com](mailto:ksrisrikalikrishna@gmail.com)                        |
-| **LinkedIn** | [linkedin.com/in/ksskalikrishna](https://linkedin.com/in/ksskalikrishna)                   |
-| **GitHub**   | [github.com/Kondaveeti-SriSriKaliKrishna](https://github.com/Kondaveeti-SriSriKaliKrishna) |
+Platform
+
+Link
+
+Email
+
+ksrisrikalikrishna@gmail.com
+
+LinkedIn
+
+linkedin.com/in/ksskalikrishna
+
+GitHub
+
+github.com/Kondaveeti-SriSriKaliKrishna
 
 </div>
 
----
-
 <div align="center">
 
-> **"Verification is not just about finding bugs â€” it is about building confidence in the design."**
+VERIFY • DEBUG • LEARN • BUILD
+
+"Verification is not just about finding bugs — it is about building confidence in the design."
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,35:003B16,70:0A0F0A,100:050505&height=130&section=footer" width="100%" alt="Footer Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,35:00B82E,70:001F0A,100:000000&height=130&section=footer" width="100%" alt="Footer Banner"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Â©%202026-Kondaveeti%20Sri%20Sri%20Kali%20Krishna-000000?style=for-the-badge&labelColor=00FF41" alt="Copyright 2026"/>
+<img src="https://img.shields.io/badge/©%202026-KONDAVEETI%20SRI%20SRI%20KALI%20KRISHNA-000000?style=for-the-badge&labelColor=00B82E" alt="Copyright 2026"/>
 
 </div>
