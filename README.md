@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:0A0F0A,70:003B16,100:00FF41&height=220&section=header&text=KONDAVEETI%20SRI%20SRI%20KALI%20KRISHNA&fontFamily=Times%20New%20Roman&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Hacker Green Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,35:8B5CF6,70:2563EB,100:00FFFF&height=220&section=header&text=KONDAVEETI%20SRI%20SRI%20KALI%20KRISHNA&fontSize=32&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn" width="100%" alt="Neon Cyberpunk Header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=800&height=55&lines=Design+Verification+Trainee;Aspiring+Design+Verification+Engineer;VLSI+%7C+Verilog+%7C+SystemVerilog;B.Tech+ECE+%7C+2026" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FFFF&center=true&vCenter=true&width=800&height=55&lines=Design+Verification+Trainee;Aspiring+Design+Verification+Engineer;VLSI+%7C+Verilog+%7C+SystemVerilog;B.Tech+ECE+%7C+2026" alt="Typing Animation"/>
 
 <br/>
 
@@ -157,127 +157,23 @@ Currently undergoing focused training in **Design Verification**, with emphasis 
 
 ## `06` // DESIGN VERIFICATION PROJECTS
 
-### ⚡ ASYNCHRONOUS FIFO — VERIFICATION
+<details>
+<summary><strong>⚡ Verification Projects — Building in Progress</strong></summary>
 
-A hands-on **Asynchronous FIFO verification project** focused on verifying FIFO behavior across **independent write and read clock domains**.
+<br/>
 
-### `VERIFICATION FEATURES`
+Hands-on Design Verification projects and training assignments will be added here as they are completed, tested, documented, and published.
 
-* Independent write and read clocks
-* Gray-coded read and write pointers
-* Two-flop clock-domain synchronization
-* Full and empty flag verification
-* Registered status flag behavior
-* Overflow and underflow error checking
-* Write and read pointer tracking
-* Concurrent read/write operations
-* Boundary-condition testing
-* Simulation-based debugging
+The focus will remain on:
 
-### `TEST SCENARIOS`
-
-* **Basic Write → Read**
-* **Read Faster Than Write**
-* **Write Faster Than Read**
-* **Concurrent Read / Write**
-* **FIFO Full Condition**
-* **FIFO Empty Condition**
-* **Overflow Attempt**
-* **Underflow Attempt**
-* **Boundary and Pointer Transition Testing**
-
-### `TESTBENCH APPROACH`
-
-The testbench is designed to generate different write/read patterns and compare the observed FIFO behavior against expected results.
-
-* Clock generation for independent domains
-* Reset sequencing
-* Directed stimulus
-* Randomized stimulus
-* Expected pointer tracking
-* Data integrity checking
-* FIFO status monitoring
-* Error-condition verification
-* `$display`-based debugging
-* Timing and delay analysis
-
-### `KEY VERIFICATION CONCEPTS`
-
-<img src="https://img.shields.io/badge/ASYNCHRONOUS-FIFO-FF00FF?style=flat-square&labelColor=111118" alt="Asynchronous FIFO"/>
-<img src="https://img.shields.io/badge/CLOCK-DOMAIN%20CROSSING-8B5CF6?style=flat-square&labelColor=111118" alt="Clock Domain Crossing"/>
-<img src="https://img.shields.io/badge/GRAY-CODE-00FFFF?style=flat-square&labelColor=111118" alt="Gray Code"/>
-<img src="https://img.shields.io/badge/TESTBENCH-DEVELOPMENT-00BFFF?style=flat-square&labelColor=111118" alt="Testbench Development"/>
-<img src="https://img.shields.io/badge/RANDOMIZED-TESTING-7C3AED?style=flat-square&labelColor=111118" alt="Randomized Testing"/>
-<img src="https://img.shields.io/badge/SIMULATION-DEBUGGING-14F1D9?style=flat-square&labelColor=111118" alt="Simulation Debugging"/>
-
----
-
-### ⚙️ RTL MODULE VERIFICATION
-
-Hands-on verification and simulation of fundamental **Verilog RTL modules**.
-
-### `MODULES`
-
-* 2:1 Multiplexer
-* 2-to-4 Decoder
-* D Flip-Flop
-* Up Counter
-* Up/Down Counter
-* Mod-N Counter
-* Other combinational and sequential RTL modules
-
-### `VERIFICATION FOCUS`
-
-* Functional correctness
-* Reset behavior
-* Input combinations
-* Counter boundary conditions
-* Sequential behavior
-* Expected-value checking
-* Simulation timing
-* RTL debugging
+* RTL verification
+* Verilog
+* SystemVerilog
 * Testbench development
+* Digital design
+* Hardware debugging
 
----
-
-### 🧪 VERIFICATION TESTBENCH PRACTICE
-
-Developing and debugging Verilog/SystemVerilog testbenches to understand RTL behavior and simulator execution.
-
-### `PRACTICE AREAS`
-
-* DUT instantiation
-* Clock generation
-* Reset generation
-* Stimulus generation
-* Directed test cases
-* Random stimulus
-* Expected-value checking
-* Concurrent operations
-* Race-condition awareness
-* Timing and delay analysis
-* `$display` debugging
-* Simulation result analysis
-
-### `VERIFICATION WORKFLOW`
-
-```text
-RTL / DUT
-    ↓
-Testbench
-    ↓
-Stimulus Generation
-    ↓
-DUT Execution
-    ↓
-Output Monitoring
-    ↓
-Expected vs Actual
-    ↓
-Debugging
-    ↓
-Pass / Fail
-```
+</details>
 
 ---
 
@@ -481,7 +377,7 @@ open_to:
 | Platform     | Link                                                                                       |
 | :----------- | :----------------------------------------------------------------------------------------- |
 | **Email**    | [ksrisrikalikrishna@gmail.com](mailto:ksrisrikalikrishna@gmail.com)                        |
-| **LinkedIn** | [linkedin.com/in/ksskalikrishna](https://linkedin.com/in/ksskalikrishna)                   |
+| **LinkedIn** | [linkedin.com/in/ksskalikrishna](https://www.linkedin.com/in/ksskalikrishna)               |
 | **GitHub**   | [github.com/Kondaveeti-SriSriKaliKrishna](https://github.com/Kondaveeti-SriSriKaliKrishna) |
 
 </div>
